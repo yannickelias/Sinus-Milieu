@@ -1,5 +1,7 @@
 # Sinus-Milieu
-Workflow-Dokumentation  zur Geodatenverarbeitung von Sinus-Milieu-Daten in Kombination mit ALKIS-Adressen in Python
+Workflow-Dokumentation  zur Geodatenverarbeitung von Sinus-Milieu-Daten in Kombination mit ALKIS-Adressen in Python, Zitation unter:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14886797.svg)](https://doi.org/10.5281/zenodo.14886797)
 
 Die erste Codezelle umfasst die Trennung der ALKIS Adressen, die in einer Eintragszeile zusammengefasst sind. Liegen die Adressen wie folgt vor: 
 
